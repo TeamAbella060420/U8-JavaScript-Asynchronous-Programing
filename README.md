@@ -3,3 +3,4 @@
 1. Introduction to Asynchronous JavaScript - Any time you have code that needs to execute after some period of time, in response to an event (like a mouse click), or upon receiving the data it needs, you're introducing asynchronous behavior into your program. JavaScript and its runtime environment provide efficient ways to handle async operations.
 2. Understanding Synchronous and Asynchronous Code - To better understand what asynchronous code is and why it's necessary, you should also understand what synchronous code is.
 3. Async Programming and Callback Functions - Fetching data is one of the most common ways you will write asynchronous programs in JavaScript.
+4. Implement a Callback - Now that we're successfully getting data asynchronously from the Open Notify API, let's use it to make another AJAX call, this time to the Wikipedia API.
