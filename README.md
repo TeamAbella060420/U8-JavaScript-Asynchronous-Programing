@@ -6,3 +6,4 @@
 4. Implement a Callback - Now that we're successfully getting data asynchronously from the Open Notify API, let's use it to make another AJAX call, this time to the Wikipedia API.
 5. Stepping Through Async Code - Use the Chrome DevTools debugger to step through the code you've written and highlight the flow of code execution.
 6. Managing Nested Callbacks - Each callback adds a level of nesting, and when you have lots of callbacks, the code could get complicated quickly.
+7. What is a Promise? - 
