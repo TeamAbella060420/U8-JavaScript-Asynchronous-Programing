@@ -40,7 +40,7 @@ function generateHTML(data) {
 }
 
 btn.addEventListener('click', (event) => {
-  event.target.textContent = "Loading...";
+  event.target.textContent = 'Loading...';
 
   fetch(astrosUrl)
     .then( response => response.json() )
