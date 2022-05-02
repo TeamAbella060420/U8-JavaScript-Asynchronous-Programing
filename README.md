@@ -13,3 +13,4 @@
 11. Perform Cleanup With finally() - The `finally()` method is a new addition to promises. It gets called once a promise is fully settled, regardless of whether it's fulfilled or rejected. Finally is useful when you need to do some clean up after the promise sequence finished.
 12. Using Fetch - easier way to make network requests with the Fetch API.
 13. Convert Promise Handling to Async/Await - convert many of the project's promise chains to async/await.
+14. Error Handling with try...catch - Since you're working with what looks like synchronous code, async functions can use try...catch to handle any errors. try...catch is the most common way to handle exceptions when using async/await.
