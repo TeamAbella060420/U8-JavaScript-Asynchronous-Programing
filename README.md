@@ -4,3 +4,4 @@
 2. Understanding Synchronous and Asynchronous Code - To better understand what asynchronous code is and why it's necessary, you should also understand what synchronous code is.
 3. Async Programming and Callback Functions - Fetching data is one of the most common ways you will write asynchronous programs in JavaScript.
 4. Implement a Callback - Now that we're successfully getting data asynchronously from the Open Notify API, let's use it to make another AJAX call, this time to the Wikipedia API.
+5. Stepping Through Async Code - 
