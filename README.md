@@ -9,3 +9,4 @@
 7. What is a Promise? - A Promise represents the eventual completion of an asynchronous operation. Promises provide a straightforward alternative for composing and managing asynchronous code, without having to write too many callbacks, or spend extra time figuring out what the program should do.
 8. Reject a Promise and Handle Errors - If an error occurs, the promise status changes from "pending" to a "rejected" (or failed) state. Promises give you the opportunity to handle the error with a method called catch().
 9. From Callbacks to Promises - convert parts of the project from callbacks to promises.
+10. Handle Multiple Promises with Promise.all - JavaScript promises provide an efficient way to fire off and keep track of multiple asynchronous operations with the Promise.all method. Promise.all is useful when your program needs to wait for more than one promise to resolve.
