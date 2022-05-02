@@ -12,4 +12,4 @@
 10. Handle Multiple Promises with Promise.all - JavaScript promises provide an efficient way to fire off and keep track of multiple asynchronous operations with the Promise.all method. Promise.all is useful when your program needs to wait for more than one promise to resolve.
 11. Perform Cleanup With finally() - The `finally()` method is a new addition to promises. It gets called once a promise is fully settled, regardless of whether it's fulfilled or rejected. Finally is useful when you need to do some clean up after the promise sequence finished.
 12. Using Fetch - easier way to make network requests with the Fetch API.
-13. Convert Promise Handling to Async/Await - 
+13. Convert Promise Handling to Async/Await - convert many of the project's promise chains to async/await.
