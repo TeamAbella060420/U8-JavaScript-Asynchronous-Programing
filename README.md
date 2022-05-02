@@ -7,4 +7,4 @@
 5. Stepping Through Async Code - Use the Chrome DevTools debugger to step through the code you've written and highlight the flow of code execution.
 6. Managing Nested Callbacks - Each callback adds a level of nesting, and when you have lots of callbacks, the code could get complicated quickly.
 7. What is a Promise? - A Promise represents the eventual completion of an asynchronous operation. Promises provide a straightforward alternative for composing and managing asynchronous code, without having to write too many callbacks, or spend extra time figuring out what the program should do.
-8. Reject a Promise and Handle Errors - 
+8. Reject a Promise and Handle Errors - If an error occurs, the promise status changes from "pending" to a "rejected" (or failed) state. Promises give you the opportunity to handle the error with a method called catch().
