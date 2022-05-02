@@ -10,3 +10,4 @@
 8. Reject a Promise and Handle Errors - If an error occurs, the promise status changes from "pending" to a "rejected" (or failed) state. Promises give you the opportunity to handle the error with a method called catch().
 9. From Callbacks to Promises - convert parts of the project from callbacks to promises.
 10. Handle Multiple Promises with Promise.all - JavaScript promises provide an efficient way to fire off and keep track of multiple asynchronous operations with the Promise.all method. Promise.all is useful when your program needs to wait for more than one promise to resolve.
+11. Perform Cleanup With finally() - The `finally()` method is a new addition to promises. It gets called once a promise is fully settled, regardless of whether it's fulfilled or rejected. Finally is useful when you need to do some clean up after the promise sequence finished.
